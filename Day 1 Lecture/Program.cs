@@ -4,15 +4,15 @@ Console.WriteLine("Hello, World!");
 
 string myName = null;
 Console.WriteLine(myName);
-string friend = "Josh Carolin";
+string friend = "Mourad Alfadil";
 
 if (friend == "Family")
 {
-    myName = "Justin";
+    myName = "Mourad Alfadil";
 }
-else if (friend == "Josh Carolin")
+else if (friend == "Mourad Alfadil")
 {
-    myName = "Jeo";
+    myName = "Mourad";
 }
 Console.WriteLine(myName);
 
